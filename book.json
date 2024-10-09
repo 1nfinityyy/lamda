@@ -1,0 +1,77 @@
+{
+    "title": "LAMDA通讯工作手册",
+    "description": "LAMDA通讯工作手册",
+    
+    "language": "zh-hans",
+    "links": {
+        "sharing": {
+            "google": null,
+            "facebook": null,
+            "twitter": null,
+            "weibo": null,
+            "all": null
+        }
+    },
+    "styles":{
+      "website":"style.css"
+    },
+    "plugins": [
+      "-lunr",
+      "-search",
+      "-livereload",
+      "-sharing",
+      "expandable-chapters",
+      "search-plus",
+      "splitter",
+      "-sharing",
+      "emphasize",
+      "include-codeblock",
+      "tbfed-pagefooter",
+      "back-to-top-button",
+      "anchor-navigation-ex",
+      "advanced-emoji"
+    ],
+    "pluginsConfig": {
+      "sharing": {
+        "douban": false,
+        "facebook": false,
+        "google": false,
+        "hatenaBookmark": false,
+        "instapaper": false,
+        "line": false,
+        "linkedin": false,
+        "messenger": false,
+        "pocket": false,
+        "qq": false,
+        "qzone": false,
+        "stumbleupon": false,
+        "twitter": false,
+        "viber": false,
+        "vk": false,
+        "weibo": false,
+        "whatsapp": false,
+        "all": [
+          "weibo","qq","qzone","google","douban"
+        ]
+      },
+      "anchor-navigation-ex": {
+        "associatedWithSummary":false,
+        "showLevel":true,
+        "multipleH1": false,
+        "mode": "float",
+  
+        "pageTop": {
+          "showLevelIcon": false,
+          "level1Icon": "fa fa-hand-o-right",
+          "level2Icon": "fa fa-hand-o-right",
+          "level3Icon": "fa fa-hand-o-right"
+        }
+      },
+      "tbfed-pagefooter": {
+        "copyright": "&copy;LAMDA Group",
+        "modify_label": "文档更新时间：",
+        "modify_format": "YYYY-MM-DD HH:mm:ss"
+      }
+    }
+  }
+  

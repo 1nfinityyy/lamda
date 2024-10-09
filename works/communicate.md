@@ -1,0 +1,47 @@
+# 交流版
+
+## 版面内容
+
+采访出国参会的师兄师姐并撰写。文中内容要让读者有所收获，包括但不限于：
+
+- 今年会议的领域热点
+- 会议上的一些趣闻轶事
+- 参会、作报告的感受
+- 投这个会议要注意什么
+- 出国办签证要注意什么等
+
+可以写玩的内容，但是一定要写学术的内容，不能通篇都是玩
+
+## 注意事项
+
+1. 需提供作者简介：一张头像+100-200字的文字简介
+
+   对于提供的文字简介需要注意，至少包含作者进组年份、当前年级（已经毕业的写XX年毕业），导师，研究方向（工作地点，职位）
+
+2. 图片最好是自己拍的，比如组内学生上去作报告，或者站poster的照片，会场的照片等
+
+   如果是某位同学的报告，需要在正文中指出是谁，或者要配标题；
+   如果有组里合影的话优先提供包含老师的组里合影
+
+3. 一到两篇稿子，正文(不包含作者简介) 1800字左右，(如果是两篇)每篇不低于600字
+
+## 交接
+
+胡泽坤，温振豪
+
+<script type="text/javascript">
+window.addEventListener("load", function() {
+  var click_handle = function() {
+    if (this.href.substr(-5) == ".html") {
+      location.href = this.href;
+    } else {
+      location.href = "../index.html";
+    }
+  };
+  var as = document.querySelectorAll(".chapter a, .navigation-prev, .navigation-next");
+  for (var i = 0; i < as.length; i++) {
+    as[i].addEventListener("click", click_handle, true);
+    as[i].title = as[i].innerText;
+  }
+});
+</script>

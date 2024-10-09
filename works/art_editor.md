@@ -1,0 +1,35 @@
+# 美编
+
+## 注意事项
+
+1. 以严肃、大方的整体风格为主，版面的图片、边角或者后面几个版面可以弄得活泼一些
+2. 一个稿子最多出现在两个版面上
+3. 每篇稿子的编辑放在页眉(新闻版不用)，可参考往期。毕业生版，科研版，交流版的稿子的撰稿人的名字在标题下方，居中，字体与正文字体区分，其他版面的撰稿人的名字写在稿子最后的小括号里
+4. 认真检查首版的编辑、特邀撰稿、特邀编辑的名字，不要遗漏。按照**进组时间+拼音顺序**排序
+5. 排版注意对齐，居中等细节。同一个版面的字体大小以及行间距要一致
+6. 图片和表格要有标题，图片的标题在下，表格的标题在上，图表和正文中间要留有一定空隙(一些显然的内容，或者是版面不够等特殊情况，可不写标题)
+7. 不要出现某个段的最后一句是一两个字的情况，可以删除几个字或者加几个字
+8. 多级标题之间要有区分
+9. 美编排版好先交给主编审核。主编审核完，美编修改后，再交给两名系里高年级博士审阅
+10. 尽量先印刷纸质版送给周老师，1-2天后群发邮件。群发邮件的时间尽量选在上午
+
+## 交接
+
+杜兴豪，方盛俊，余淼 
+
+<script type="text/javascript">
+window.addEventListener("load", function() {
+  var click_handle = function() {
+    if (this.href.substr(-5) == ".html") {
+      location.href = this.href;
+    } else {
+      location.href = "../index.html";
+    }
+  };
+  var as = document.querySelectorAll(".chapter a, .navigation-prev, .navigation-next");
+  for (var i = 0; i < as.length; i++) {
+    as[i].addEventListener("click", click_handle, true);
+    as[i].title = as[i].innerText;
+  }
+});
+</script>

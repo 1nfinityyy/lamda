@@ -1,0 +1,33 @@
+# 讲座版
+
+## 版面内容
+
+一般是在全所大群里宣传的讲座，编辑尽量去参加，如果有事不能参加请询问参加讲座的高年级博士后再撰写。
+
+## 注意事项
+
+1. 老师的职称一定要弄清楚，到底是教授还是副教授，博士等等。注意全文统一，不要一会教授一会老师，一会写副教授一会写博士
+2. 老师的介绍不用太多，不用列一堆title，写几个最有含金量的即可，重要的是讲座本身而不是作者
+3. 每篇稿子需且仅需一张图片，讲座现场的照片，从摄像那里或者我这里拿图。
+4. 一到三篇稿子，一/两篇稿子需一共1800字，三篇稿子需一共1600字
+
+## 交接
+
+杨仕嘉，田睿杰
+
+<script type="text/javascript">
+window.addEventListener("load", function() {
+  var click_handle = function() {
+    if (this.href.substr(-5) == ".html") {
+      location.href = this.href;
+    } else {
+      location.href = "../index.html";
+    }
+  };
+  var as = document.querySelectorAll(".chapter a, .navigation-prev, .navigation-next");
+  for (var i = 0; i < as.length; i++) {
+    as[i].addEventListener("click", click_handle, true);
+    as[i].title = as[i].innerText;
+  }
+});
+</script>
